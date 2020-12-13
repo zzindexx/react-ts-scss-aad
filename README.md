@@ -44,5 +44,5 @@ To add authentication capabilities to SPA application, an application registrati
     * clientId - id of your app registration
     * redirectUrl - url of your site
 
-![Azure AD Application config](https://github.com/zzindexx/react-ts-scss-aad/docs/AAD-App_auth.png)
+![Azure AD Application config](https://github.com/zzindexx/react-ts-scss-aad/raw/master/docs/AAD-App-Auth.png)
 
